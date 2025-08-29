@@ -7,6 +7,4 @@
 # new environment variables
 
 # modified environment variables
-export LD_LIBRARY_PATH='/home/rodrigomaguinat/pit_ws/devel/lib:/home/rodrigomaguinat/test_ws/devel/lib:/opt/ros/noetic/lib'
-export PKG_CONFIG_PATH='/home/rodrigomaguinat/pit_ws/devel/lib/pkgconfig:/home/rodrigomaguinat/test_ws/devel/lib/pkgconfig:/opt/ros/noetic/lib/pkgconfig'
 export PWD='/home/rodrigomaguinat/robot01_ws/build'
