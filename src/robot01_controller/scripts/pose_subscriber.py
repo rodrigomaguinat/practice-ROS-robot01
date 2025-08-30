@@ -3,7 +3,7 @@ import rospy
 from turtlesim.msg import Pose
 
 def pose_callback(msg):
-    rospy.loginfo(msg)
+    rospy.loginfo('(' + str(msg.x) + ', ' + str(msg.y) + ')')
 
 if __name__ == '__main__':
     rospy.init_node('turtle_pose_subscriber')
